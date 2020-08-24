@@ -1,0 +1,95 @@
+{
+  "autors": [
+    {
+      "id": "1",
+      "nombre": "Monica Villarroel",
+      "edad": "46",
+      "nacionalidad": "Boliviano"
+    },
+    {
+      "id": "2",
+      "nombre": "Mauricio Hinojosa",
+      "edad": "28",
+      "nacionalidad": "Boliviano"
+    },
+    {
+      "id": "3",
+      "nombre": "Cristian Tola",
+      "edad": "28",
+      "nacionalidad": "Boliviano"
+    },
+    {
+      "id": "4",
+      "nombre": "Wilson Figueroa",
+      "edad": "28",
+      "nacionalidad": "Boliviano"
+    }
+  ],
+  "libros": [
+    {
+      "id": "1",
+      "titulo": "Node Reacts",
+      "descripcion": "Libro resumnen sobre el curso de desarrollo de javascripts node reacts",
+      "precio": "31",
+      "autorId": "3"
+    },
+    {
+      "id": "2",
+      "titulo": "Reacts",
+      "descripcion": "Libro resumnen sobre el curso de desarrollo de javascripts node reacts",
+      "precio": "61",
+      "autorId": "3"
+    },
+    {
+      "id": "3",
+      "titulo": "Compendio de normas municipales",
+      "descripcion": "Libro que contiene un compendio de normas municipales",
+      "precio": "61",
+      "autorId": "1"
+    },
+    {
+      "titulo": "hola",
+      "descripcion": "asdasd",
+      "precio": "12",
+      "autorId": "2",
+      "id": "_hAnoYF"
+    }
+  ],
+  "carritos": [
+    {
+      "id": "1",
+      "nit": "10051000122",
+      "name": "Concejo Municipal de la santac cruz"
+    },
+    {
+      "id": "2",
+      "nit": "1299000123",
+      "name": "American Shoes"
+    },
+    {
+      "id": "3",
+      "nit": "8687103",
+      "name": "Rodrigo Hinojosa"
+    }
+  ],
+  "libro_carritos": [
+    {
+      "id": "1",
+      "cantidad": "20",
+      "cart_id": "3",
+      "libro_id": "2"
+    },
+    {
+      "id": "2",
+      "cantidad": "1",
+      "cart_id": "2",
+      "libro_id": "2"
+    },
+    {
+      "id": "3",
+      "cantidad": "1",
+      "cart_id": "3",
+      "libro_id": "3"
+    }
+  ]
+}
